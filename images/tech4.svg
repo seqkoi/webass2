@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520">
+      <rect width="800" height="520" fill="#ea580c"/>
+      <circle cx="680" cy="90" r="150" fill="white" opacity=".12"/>
+      <circle cx="120" cy="430" r="190" fill="white" opacity=".08"/>
+      <rect x="180" y="120" width="440" height="260" rx="24" fill="white" opacity=".92"/>
+      <rect x="210" y="150" width="380" height="200" rx="12" fill="#ea580c" opacity=".9"/>
+      <rect x="300" y="390" width="200" height="14" rx="7" fill="white" opacity=".9"/>
+      <text x="400" y="255" text-anchor="middle" font-family="Arial" font-size="44" font-weight="700" fill="white">Audio</text>
+    </svg>
